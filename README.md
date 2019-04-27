@@ -1,5 +1,5 @@
 # GuessGame
-This is a number guessig game. It can be played against the computer named 'SkyNet'.
+This is a number guessing game. It can be played against the computer named 'SkyNet'.
 
 ### How to Play
 SkyNet and the user picks four digit number, all four digits are different. Numbers can have leading zero.</br>
